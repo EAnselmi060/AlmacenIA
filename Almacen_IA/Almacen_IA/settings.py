@@ -77,9 +77,9 @@ WSGI_APPLICATION = 'Almacen_IA.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'Almacen_db',
+        'NAME': 'proyecto',
         'USER': 'postgres',
-        'PASSWORD': 'diaz3214',
+        'PASSWORD': '1234',
         'HOST': 'localhost',  
         'DATABASE_PORT': '5050'    
     }
